@@ -16,7 +16,7 @@ Add global data assets to the "data" composition as new layers. Localized data c
 
 # Troubleshooting
 
-This project requires GPU acceleration for rendering. Depending on the GPU in your computer you may have to use After Effects built in rendering tool rather than the Adobe Media recorder.
+This project requires GPU acceleration for rendering. Depending on the GPU in your computer you may have to use After Effects built in rendering tool rather than the Adobe Media encoder.
 
 Support is limited, but sos.explorer@noaa.gov with any questions or concerns.  
 
