@@ -3,6 +3,7 @@
 This project attempts to simplify the process of creating realistic looking animations of the Earth and global datasets. It outputs either widescreen 4K video or [equirectangular projections](https://en.wikipedia.org/wiki/Equirectangular_projection) designed to be wrapped around [Science On a Sphere](https://sos.noaa.gov/).
 
 ![Default Globe](Screenshots/default-globe.jpg)
+![SOS Output](Screenshots/sos-projection.jpg)
 
 Example output is available in many of the products on the [GSL visualization page](https://gsl.noaa.gov/focus-areas/data-visualization).
 
@@ -27,8 +28,6 @@ In the "//Controller" composition you can set the time range that controls the t
 Add global data assets to the "Data" composition as new layers. Localized data can be added to the magnifier compositions replacing the "A" and "B" compositions.
 
 # Screenshots
-
-![SOS Output](Screenshots/sos-projection.jpg)
 
 ![Magnifier](Screenshots/magnifier-on-earth.jpg)
 
