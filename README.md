@@ -8,6 +8,8 @@ Example output is available in many of the products on the [GSL visualization pa
 
 # Usage
 
+**This template requires the installation of the free "[Orb](https://www.videocopilot.net/orb/)" plugin.** The project should be cloned and After Effects configured to use this project as a template.  Information on how to do this can be found [here](https://helpx.adobe.com/after-effects/using/projects.html#template_projects_and_example_projects).
+
 Much of the configuration is done inside the Essential Graphics Window looking at the "Globe" compositions. You can change the visibility of certain layers, the location of magnifiers, and the light settings.
 
 | Layer Controls | Magnifier Controls |
@@ -32,8 +34,6 @@ Add global data assets to the "Data" composition as new layers. Localized data c
 
 # Troubleshooting
 
-This project has been tested on [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) version 17.1.2 or later. In addition, it requires the installation of the free "[Orb](https://www.videocopilot.net/orb/)" plugin. The project should be cloned and After Effects configured to use this project as a template.  Information on how to do this can be found [here](https://helpx.adobe.com/after-effects/using/projects.html#template_projects_and_example_projects).
-
-This project requires GPU acceleration for rendering. Depending on the GPU in your computer you may have to use After Effects built in rendering tool rather than the Adobe Media encoder.
+This project has been tested on [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) version 17.1.2 or later. This project requires GPU acceleration for rendering. Depending on the GPU in your computer you may have to use After Effects built in rendering tool rather than the Adobe Media encoder.
 
 Support is limited, but sos.explorer@noaa.gov with any questions or concerns. Also feel free to start a discussion on GitHub.
