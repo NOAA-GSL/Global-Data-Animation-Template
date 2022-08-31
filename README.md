@@ -37,4 +37,4 @@ Several of the effects used in this template (especially Orb) require a high-end
 
 This project has been tested on [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) version 17.1.2 or later. This project requires GPU acceleration for rendering. Depending on the GPU in your computer you may have to use After Effects built in rendering tool rather than the Adobe Media encoder.
 
-Support is limited, but sos.explorer@noaa.gov with any questions or concerns. Also feel free to start a discussion on GitHub.
+Support is limited, but email sos.explorer@noaa.gov with any questions or concerns. Also feel free to start a discussion on GitHub.
