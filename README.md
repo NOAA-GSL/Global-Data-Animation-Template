@@ -33,8 +33,8 @@ Add global data assets to the "Data" composition as new layers. Localized data c
 
 # Troubleshooting
 
-Several of the effects used in this template (especially Orb) require a high-end graphics card. Make sure your graphics card is on the [supported list](https://www.videocopilot.net/assets/public/misc/Orb-GPU-List.pdf).  If after opening the project the "Globe" composition fails to render a frame your computer may have insufficent power.
+Several of the effects used in this template (especially Orb) require a high-end graphics card. Make sure your graphics card is on the [supported list](https://www.videocopilot.net/assets/public/misc/Orb-GPU-List.pdf).  If after opening the project the "Globe" composition fails to render a frame or you see a sphere without texture your computer may not meet the requirements.
 
-This project has been tested on [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) version 17.1.2 or later. This project requires GPU acceleration for rendering. Depending on the GPU in your computer you may have to use After Effects built in rendering tool rather than the Adobe Media encoder.
+This project has been tested on [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) version 22 or later. This project requires GPU acceleration for rendering. Depending on the GPU in your computer you may have to use After Effects built in rendering tool rather than the Adobe Media encoder.
 
 Support is limited, but email sos.explorer@noaa.gov with any questions or concerns. Also feel free to start a discussion on GitHub.
